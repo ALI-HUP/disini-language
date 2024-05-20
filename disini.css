@@ -1,0 +1,35 @@
+body {
+    background-image: url(./disini.jpg);
+    background-size: 100%;
+}
+
+.main-div {
+    margin-top: 180px;
+    margin-left: 860px;
+}
+
+.welcome-p {
+    font-size: 35px;
+    text-align: center;
+}
+
+.input {
+    margin-left: 65px;
+    position: absolute;
+    width: 30%;
+    height: 40px;
+    direction:rtl;
+}
+.input:focus {
+    background-color: rgb(199, 245, 245);
+}
+
+.button {
+    font-size: 20px;
+    width: 50px;
+    height: 47px;
+}
+
+.input-button {
+    width: 200px;
+}
